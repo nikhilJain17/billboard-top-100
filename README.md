@@ -1,5 +1,5 @@
 ﻿# billboard-top-100
-Node.js API to retrieve top songs, albums, and artists from Billboard's charts
+Node.js API to fetch top songs, albums, and artists from Billboard's charts
 
 [![https://nodei.co/npm/billboard-top-100.png?downloads=true&downloadRank=true&stars=true](https://nodei.co/npm/billboard-top-100.png?downloads=true&downloadRank=true)](https://www.npmjs.com/package/billboard-top-100)
 
